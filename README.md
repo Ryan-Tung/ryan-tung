@@ -1,16 +1,14 @@
 ### Hi there 👋
+# Ryan Tung's Github Profile
 
-<!--
-**Ryan-Tung/ryan-tung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Ryan Tung's Github Profile! This profile contains the some of the projects Ryan has been working on, showcasing his skills, and experience.
 
-Here are some ideas to get you started:
+## Is this the right Ryan Tung? That's me ->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ryan Tung's Portfolio](https://ryan-tung.github.io/latest%20portfolio/images/about-img.jpg)
+
+## Visit Website
+
+You can view Ryan Tung's portfolio website by following this link: [Ryan Tung's Portfolio](https://ryan-tung.github.io/latest%20portfolio/index.html)
+
+If you have any feedback or suggestions regarding Ryan Tung's portfolio website, please open an issue or contact Ryan directly.
