@@ -13,4 +13,4 @@ You can view Ryan Tung's portfolio website by following this link: [Ryan Tung's 
 
 If you have any feedback or suggestions regarding Ryan Tung's portfolio website, please open an issue [in the website repository](https://github.com/Ryan-Tung/ryan-tung.github.io) or contact Ryan directly.
 
-## Check out Ryan's coding history below 🤫
+## Check out Ryan's project highlights below 🤫
