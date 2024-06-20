@@ -5,7 +5,7 @@ Welcome to Ryan Tung's Github Profile! This profile contains the some of the pro
 
 ## Is this the right Ryan Tung? That's me ->
 
-![Ryan Tung's Portfolio](https://ryan-tung.github.io/latest%20portfolio/images/about-img.jpg)
+![Ryan Tung's Portfolio](https://ryan-tung.github.io/latest%20portfolio/images/home-img.jpg)
 
 ## Visit Website
 
